@@ -1,6 +1,6 @@
 # Annual Security Awareness Training Program
 
-A practical, repeatable framework for designing and running a year-long security awareness training program that drives real behavior change—not just compliance.
+A practical, repeatable framework for designing and running a year-long security awareness training program that drives real behavior change not just compliance.
 
 ---
 
