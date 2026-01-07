@@ -15,6 +15,5 @@ The goals of this repository are to:
 - Serve as a reference for building, tuning, and maintaining detections
 - Support SOC analysts, detection engineers, and security teams of all sizes
 
----
 
 
