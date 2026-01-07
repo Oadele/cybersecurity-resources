@@ -6,7 +6,7 @@ The focus of this repo is on **practical, high-signal detections** that align wi
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 The goals of this repository are to:
 
